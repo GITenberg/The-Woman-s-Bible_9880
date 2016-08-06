@@ -1,0 +1,35 @@
+_repo: The-Woman-s-Bible_9880
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stanton, Elizabeth Cady
+    aliases:
+    - Stanton, Lizzie
+    - Stanton, E. Cady (Elizabeth Cady)
+    - Cady, Elizabeth
+    birthdate: 1815
+    deathdate: 1902
+    gutenberg_agent_id: '3186'
+    url: http://www.gutenberg.org/2009/agents/3186
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Cady_Stanton
+description: 'pt. 1: Comments on Genesis, Exodus, Leviticus, Numbers and Deuteronomy.
+  -- pt. 2: Comments on the Old and New Testaments, from Joshua to Revelation.'
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible -- Commentaries'
+- !lcsh 'Bible -- Feminist criticism'
+- !lcsh 'Women in the Bible'
+- !lcc 'HQ'
+- GITenberg
+tableOfContents: Part I. Comments on Genesis, Exodus, Leviticus, Numbers and Deuteronomy.
+  Part II. Comments on the Old and New Testaments from Joshua to Revelation.
+title: The Woman's Bible
+url: http://www.gutenberg.org/ebooks/9880
